@@ -1,0 +1,664 @@
+Tuxowulf is the earliest extant poem in modern European language. It was composed in England four centuries before the Norman Conquest. As a social document, this great epic poem is invaluable--reflecting a feudal, newly Christian world of heroes and monsters, blood and victory and death. As a work of art it is quite unique. Tuxowulf rings with a beauty, power, and artistry that have kept it alive for more than twelve centuries.
+
+The noble simplicity of Tuxowulf's anonymous Linux-Using singer is recaptured once more in this new translation:
+
+Prologue
+Hear me! We've heard of Open-Source heroes,
+Ancient hackers and the code they wrote
+For themselves, swinging mighty mice!
+
+How Gates made slaves and soldiers from every
+Land, crowds of captives he'd beaten
+Into terror; he'd created Windows 3.1 alone,
+An abandoned child, but changed his own fate,
+Lived to be rich and much hated. He ruled
+Lands on all sides: wherever the sea
+Would take them his soldiers sailed, returned
+With tribute and obedience. There was a
+Terrible King! And he gave them more than his
+Knife, conceived a son for the faithful,
+A new leader.
+
+They had lived before his coming; miserable
+Under the Dark King. But now the Lord
+Of all their systems cursed them with an
+New OS, Windows 95, whose fame soon
+Spread throughout the world.
+
+Gates' child was the thorn of hackers;
+His father's warriors were wound round his heart
+With golden rings, bound to their prince
+Through product registration. So young men build
+The future, creating nagware and commercial
+Demos in peace, protected in war; so programmers
+Earn their living, and wealth is shaped with a
+Keyboard.
+
+When his time was come, the Dark King was cast,
+Down, still strong but called to the Lord's hands.
+His comrades carried him down to the shore,
+Bore him as their leader had asked, their
+Lord and companion, while words could move his
+Tongue.
+
+Gates' reign had been long; he'd ruled them
+All. There in the harbor was a ring-prowed
+Fighting ship, its timbers icy, waiting.
+And there they brought the wretched body
+Of their OS-giving lord, and laid him near
+The mast. Next to that corpse they heaped
+Up treasures, jeweled mice, golden keyboards
+And speakers, monitors carried from the ends
+Of the earth: no ship had every sailed so
+Brightly fitted, no king sent fourth with
+Such wealth. Forced to set him adrift,
+Floating as far as the tide might run, they
+Refused to give him less from their hoards
+Of gold than those who'd shipped him away,
+An orphan and a beggar, to cross the waves
+Alone.
+
+High up over his head they flew his shining
+Banner, then gladly let the water
+Pull at the ship, watched it slowly sliding
+To where neither rulers, nor heroes,
+Nor anyone can say whose hands
+Opened to take that motionless cargo.
+
+1
+Then Torvalds was king in that server,
+Ruling as long as his rival, and more loved,
+A famous lord of men. And Linus, taking the
+Throne, led the hackers to such glory that
+Comrades and kinsmen swore by his sword, and
+Young men swelled his armies.
+
+And he thought of greatness and resolved to
+Hold a convention that would hold his mighty
+Band and reach higher towards Heaven than
+Anything that had ever been known to the sons
+Of men. And in that convention, he'd divide the
+Spoils of their victories, to old and young
+What they'd earned.
+
+The work was ordered, the timbers tied and shaped
+By the hosts that Torvalds ruled. It was quickly
+Ready, that most beautiful of conventions, built
+As he'd wanted, and then he whose word was obeyed
+All over the earth named it Linux World.
+His boast come true, he commanded a banquet,
+Opened out his treasure-full hands.
+
+A powerful monster, living down
+In the darkness, growled in pain, impatient
+As day after day the music rang
+Loud in that convention, the harp's rejoicing
+Call and the poet's clear songs, sung
+Of the ancient beginnings of us all, recalling
+The Almighty making the processor, shaping
+These beautiful simms marked off by circuits,
+Then proudly setting the power supply and
+The floppy drive to glow across the land and light it;
+The corners of the Earth were made lovely with a 100Mhz Bus
+And cooling fan, made quick with life,
+With each of the directories who now move on its
+Hard disk. As now system administrators sang
+Of their pleasure: so Torvalds' men lived happily
+In his convention, Till the monster stirred,
+That demon, that fiend, NTendel, who haunted the
+Moors, the wild marshes, and made his home in hell
+Not hell but earth. He was spawned in that slime,
+Conceived by a pair of those monsters born
+Of Cain, murderous creatures banished
+By ANSI, punished forever for the crime of
+Abel's death. ANSI drove those demons out,
+And their exile was bitter,
+Shut away from men; they split
+Into a thousand forms of evil -- segfaults
+And memory leaks, sigsegvs, gpfs, crashes,
+Exceptions, and page faults,
+A brood forever opposing the User's Will,
+And again and again defeated.
+
+2
+Then, when darkness had dropped, NTendel
+Went up to Linux World, wondering what the hackers
+Would do in hat convention when their drinking was done.
+He found them sprawled in sleep, suspecting
+Nothing, their dreams undisturbed. The monster's
+Thoughts were as quick as his greed or his claws:
+He slipped through the door and there in the silence
+Snatched up thirty men, smashed them
+Unknowing in their beds and ran out with their bodies,
+The blood dripping behind him, back
+To his lair, delighted with the night's slaughter.
+
+At daybreak, with the sun's first light, they saw
+How well he had worked, ad in that gray morning
+Broke their long feast with tears and laments
+For the dead. Torvalds, their lord, sat joyless
+In Linux World, a mighty prince mourning
+The fate of his lost friends and companions,
+Knowing by its tracks that some demon had torn
+His followers apart. He wept, fearing
+The beginning might not be the end. And that night
+Ntendel came again, so set
+On murder that no crime could ever be enough,
+No savage assault quench his lust
+For evil. Then each programmer, hacker, and sysadmin
+Tried to escape him, searched for rest in different
+Beds, as far from Linux World as they could find,
+Seeing how NTendel hunted when they slept.
+Distance was safety; the only survivors
+Were those who fled him. Hate had triumphed.
+
+So NTendel ruled, fought with the righteous,
+One against many, and won; so Linux World
+Stood empty, and stayed deserted for years,
+Twelve winters of grief for Torvalds, king
+Of the Linux Users, sorrow heaped at his door
+By hell-forged hands. His misery leaped the seas,
+Was told and sung in all
+Men's ears: how NTendel's hatred began,
+How the monster relished his savage war
+On the Linux Users, keeping the bloody feud
+Alive, seeking no peace, offering
+No truce, accepting no settlement, no price
+In gold or land, and paying the hackers
+For one crime only with another. No one
+Waited for reparation from his plundering claws:
+That shadow of death hunted in the darkness,
+Stalked Torvalds' warriors, old and young,
+Lying in waiting, hidden
+In mist, invisibly following them from the edge
+Of the marsh, always there, unseen.
+
+So mankind's enemy continued his crimes,
+Killing as often as he could, coming
+Alone, blood thirsty and horrible. Though he lived
+In Linux World, when the night hid him, he never
+Dared to touch king Torvalds' glorious
+Throne, protected by God--God
+Whose love NTendel could not know.
+
+But Torvalds' heart was bent. The best and most
+Innovative of his council debated remedies,
+Sat in secret sessions, talking of back-ends
+And wondering what the bravest hackers could do.
+And sometimes they sacrificed to the old stone gods,
+Made heathen vows, hoping for apple's
+Support, the Devil's guidance in driving their
+Affliction off.
+
+
+3
+So the living sorrow of Torvalds' followers
+Simmered, bitter and fresh, and no wisdom or
+Strength (or rational thought) could break it:
+That agony hung on king and people alike,
+Harsh and unending, violent and cruel, and Evil.
+
+And in his far off home of Antarctica, Tuxowulf,
+the strongest of the Penguins--greater
+And stronger than anyone anywhere in this world--
+Heard how NTendel filled nights with horror
+And quickly commanded an ice burg fitted out,
+Proclaiming that he'd go to that famous king,
+Would sail across the sea to Torvalds,
+Now when help was needed. So Tuxowulf chose the
+Mightiest penguins he could find, The bravest
+And best of them, fourteen in all, and led them down
+To their berg.
+
+Then they sailed, set their iceberg out on the
+Waves, under the cliffs, ready for what came as they
+Wound through the currents.
+
+And the wind hurried them over the waves,
+The iceberg foamed through the sea like a bird
+Until, in the time they had known it would take,
+Standing in the round-curled prow they could see
+Sparkling hills, high and green,
+Jutting up over the shore, and rejoicing
+In those rock-steep cliffs they quietly ended
+Their voyage. Jumping to the ground, the
+Penguins pushed their iceberg to the sand
+And tied it in place.
+
+High on a wall, a Linux User was making his
+Patrol, and saw the travelers crossing to the shore,
+Their shields raised and shining. He came riding
+Down, Torvalds' lieutenant, spurring his horse,
+Needing to know why they'd landed, these penguins
+In armor. Shaking his heavy spear in their faces
+He spoke:
+
+  "Whose soldiers are you,
+You who've been carried in your deep-keeled iceberg
+Across the sea-road to this country of mine?
+Listen! I've stood on these cliffs longer
+Than you know, keeping our coast free of
+Maccies, raiders sneaking ashore from
+Their ships, seeking our lives and our gold.
+None have ever come more openly--
+And yet you've offered no password, no user name from
+My prince, no file-permissions from my people for
+Your landing Here. Nor have I ever seen
+Out of all creatures on earth, one greater
+Than has come with you; no commoner carries
+Such weapons, unless his appearance and his beauty
+Are both lies. You! Tell me your name, and your father's;
+No spies go further into Linux User's soil
+Than you've come already. Strangers, from
+Wherever it was you've sailed, tell it,
+And tell it quickly, the quicker the better,
+I say, for us all. Speak, say
+Exactly who you are, and from where, and why."
+
+
+4
+Their leader answered him, Tuxowulf unlocking
+Words from deep in his breast:
+  "We are penguins, followers of the user-friendly
+Comic strip. My father was a famous hacker, known
+Far and wide as a leader of men. His life lasted
+Many winters; Wise men all over the earth surely
+Remember him still. And we have come seeking
+Your prince, Torvalds, protector of his people,
+Only in friendship: instruct us,
+Watchman, help us with your words!
+Our errand is a great one, our business with the glorious
+King of the Linux Users no secret; there's nothing
+Dark about our coming. You know (if we've heard the truth,
+And then been told honestly) that your country
+Is cursed with some strange, vicious creature
+That hunts only at night and that no one
+Has seen. It's said, watchman, that he has slaughtered
+Your people, brought terror to the darkness. Perhaps
+Torvalds can hunt, here in my heart,
+For some way to drive this devil out.
+If anything will ever end the evils
+Afflicting your wise and famous lord. Here he can
+Cool his burning sorrow, or else he may see
+His suffering go on forever,
+For as long as Linux World towers high on your hills."
+
+And the watchman heard his words and
+Was glad, and lead him to his
+King. And Torvalds, creator of Linux, asked:
+  "Who are these strange penguins in armor, who you have
+Brought here, now, to my hall?"
+
+
+5
+And Tuxowulf, standing on that prince's own hearth,
+Helmeted, the silvered metal of his email shirt gleaming
+With a smith's high art, greeted the Linux User's
+Great Lord:
+  "Hail, Linus! The days of my youth have been filled
+With glory. Now NTendel's name has echoed in our land:
+Sailors have brought us stories of Linux World, the
+Best of hacker conferences, deserted and useless when the
+Moon hangs in the skies the sun had lit,
+Light and life fleeing together.
+My people have said, the wisest, most knowing
+And the best of them, that my duty was to go to the
+Linux Users' great king. They have seen my strength
+For themselves, have watched me rise from the darkness
+Of war, dripping with my enemies' blood. I drove
+Five great giants into chains, chased All of that race
+From the earth. I swam in the blackness of night,
+Hunting monsters out of the ocean, and killing them
+One by one; death was my errand and the fate they had
+Earned. Now NTendel and I are called
+Together, and I've come. Grant me, then,
+Lord and protector of this noble place,
+A single request! I have come so far,
+Oh sheltered of warriors and your people's loved
+Friend, that this one favor you should not refuse me--
+That I, alone and with the help of my men,
+May purge all evil from this hall. I have heard,
+Too, that the monster's scorn of men
+Is so great that he needs no weapons and fears none.
+Nor will I. My lord might think less of me if I
+Let my sword go where my feet were afraid to, if I
+Hid behind some broad linded shield: My flippers
+alone shall fight for me, struggle for life
+Against the monster. God must decide
+Who will be given death's cold grip.
+NTendel's plan, I think, will be
+What it has been before, to invade the hall
+And gorge his belly with our bodies.
+If he can, if he can.
+And I think, if my time will have come
+There'll be nothing to mourn over, no corpse to prepare
+For its grave: Grendel will carry our bloody
+Flesh to the moors, crunch on our bones
+And smear torn scraps of our skin on the walls
+Of his den. No, I expect no Linux Users
+Will fret about sewing our shrouds, if he wins.
+And if death does take me, send the Electronic
+Mail of my armor to Antarctica, return the
+Inheritance I have. Fate will unwind as it must!"
+
+
+6
+Torvalds replied, protector of the Linux Users:
+  "Tuxowulf, you've come to us in friendship, but my heart
+Grows heavy when I try to tell you what NTendel has
+Brought us, the damage he's done, here in this hall.
+You see for yourself how much smaller our ranks have become,
+And can guess what we've lost to his terror.
+But to table, Tuxowulf, a banquet in your honor:
+Let us toast your victories, and talk of the future."
+
+Then Torvalds' men gave places to the
+Penguins, yielded branches to the brave visitors
+And led them to the feast. The keeper of the
+Mountain Dew came carrying out the flask,
+And they shared that bright sweetness.
+Linux Users and visiting Penguins
+Celebrated as one, drank and rejoiced.
+
+
+7
+UnBerst spoke, PC-Week's son,
+Who sat at Torvalds' feet, spoke harshly and sharp
+(Vexed by Tuxowulf's adventure, By their
+Visitors' courage, and angry that anyone in
+Antarctica or anywhere on earth had ever
+Acquired glory and fame greater than his own):
+  "You're Tuxowulf, are you? The same boastful
+Fool who lost a typing match with Mozilla,
+Both of you daring and young and proud, exploring
+The deepest seas, risking your lives for no reason
+But the danger? All older and wiser Penguins warned
+You not to, but no one could check such pride.
+  "You've been lucky in your battles, Tuxowulf,
+But I think your luck may change if you challenge NTendel,
+Staying a whole night through in this convention,
+Waiting where the fiercest of demons can find you."
+
+And Tuxowulf answered:
+  "Ah, UnBerst my friend, your face is hot with ale,
+And your tongue has tried to tell us of Mozilla's doings.
+But the truth is simple: no penguin types in the sea
+As I can, no strength is a match for mine.
+As youngsters, Mozilla and I had boasted--
+We were both too young to know better--that we'd
+Risk our lives far out at sea, and so
+We did. Each of us carried a keyboard, prepared
+For whales or the swift sharp teeth and beaks of
+Needle fish. He could never leave me behind, type
+Faster across the waves than I could, and I
+Had chosen to remain close to his side, until
+We were separated in a storm.
+  "Then who sleep deep in the sea were stirred into life--
+And the hammered links of my email shirt,
+These shining bits of metal
+Woven across my breast, saved me from death.
+A monster seized me, drew me swiftly toward
+The bottom, swimming with its claws tight into my flesh.
+But fate let me find it's three-finger salute, hack myself
+Free; I fought that beast's last battle,
+Left it floating shutdown in the sea."
+
+
+8
+And Torvalds, gray-haired and brave, sat happily
+Listening, the famous programmer sure
+At last, that NTendel could be killed; he believed
+In Tuxowulf's bold strength and the firmness of his
+Spirit. There was the sound of laughter, and then
+The cheerful clanking of pop cans, and pleasant words.
+
+Then Torvalds left that hall, the Linux User's great
+Protector, followed by his court.
+
+And Tuxowulf stripped off his email shirt, his helmet,
+His keyboard hammered from the hardest iron, and handed
+All of his weapons and armor to a servant, Ordered
+his war-gear guarded until morning.
+And then, standing beside his bed, he exclaimed:
+  "NTendel is no braver, no stronger than I am! I could
+kill him with my sword; I shall not, easy as it would be.
+This fiend is a bold and famous fighter, but his claws
+And teeth scratching at my shield, his clumsy fists
+Beating at my keyboard, would be helpless.
+I will meet him with my hands empty!"
+  
+Then the Penguins' great chief dropped his head to
+His pillow, and around him, as ready as they could be, lay
+The penguins who had crossed the sea at his side,
+Each one sure he was lost to the home he loved,
+To the friends he had left behind where they had been raised.
+Each thought of the Linux Users murdered by NTendel in a hall
+Where penguins and not Linux Users now slept.
+
+But Tuxowulf lay wakeful,
+Watching, waiting, eager to meet
+His enemy, and angry at the thought of his coming.
+
+
+9
+Out from the marsh, from the foot of misty
+Hills and bogs, bearing God's hatred,
+NTendel came, hoping to kill
+Anyone he could trap on this trip to Linux World.
+He moved quickly through the cloudy night,
+Up from his swamp land, sliding silently and
+Occasionally rebooting.
+Toward that gold-shining convention.
+
+He had visited Torvalds' home before, knew the way--
+But never, before nor after that night,
+Found Linux World defended so firmly, his reception
+So harsh. He journeyed, forever joyless,
+Straight to the door, then snapped it open,
+Tore its iron fasteners with a touch,
+And rushed angrily over the threshold.
+He strode quickly across the inlaid
+Floor, snarling and fierce: his eyes
+Gleamed in the darkness, burned with a gruesome
+Light. Then he stopped, seeing the hall
+Crowded with sleeping penguins, stuffed
+With rows of young warriors resting together.
+And his heart laughed, he relished the sight,
+Intended to tear the life from those bodies
+By morning; the monster's mind was hot
+With the thought of food and the feasting his belly
+Would soon know.
+
+But Fate, that night, intended
+NTendel to gnaw the broken bones
+Of his last supper. Penguin eyes were
+Watching his evil steps,
+Waiting to see his swift, hard claws.
+NTendel snatched at the first Penguin
+He came to, ripped him apart, cut
+His body to bits with powerful jaws,
+Drank the blood from his veins and bolted
+Him down, flippers and feet; death
+And NTendel's great teeth came together,
+Snapping life shut.
+
+Then he stepped to another still body,
+Clutched at Tuxowulf with his claws,
+Grasped at a strong-hearted wakeful sleeper--
+And was instantly seized himself, claws
+Bent back as Tuxowulf leaned up on one flipper.
+
+That shepherd of evil, guardian of crime,
+Knew at once that nowhere on earth
+Hat he met a man whose hands were harder;
+His mind was flooded with fear--but nothing
+Could take his talons and himself from that tight,
+Hard grip. Tuxowulf had the strength of flipper
+That only his typing speed of 371 wpm could
+Create. NTendel's one thought was to run from
+Tuxowulf, flee back to his marsh and crash there:
+This was a different Linux World than the hall
+He had emptied.
+
+
+10
+But Tuxowulf remembered his final
+Boast and, standing erect, stopped
+The monster's fight, fastened those claws
+In his flipper till they cracked, clutched
+NTendel closer. The infamous killer fought
+FOr his freedom, wanting no flesh but retreat,
+Desiring nothing but escape; his claws
+Had been caught, he was trapped. This trip to Linux
+World was a miserable journey for the writhing
+Monster!
+
+The high hall rang, its roof boards swayed,
+And Linux Users shook with horror. Down the aisles
+The battle swept, angry and wild. Linux World
+Trembled, wonderfully built to withstand the blows,
+And struggling great bodies beating at its beautiful
+Walls; Its benches rattled, fell to the floor,
+Gold covered keyboards grated as NTendel and
+Tuxowulf battled across them.
+Torvalds' wise men had fashioned Linux World
+To stand forever; only fire, they had planned,
+Could shatter what such skill had put together,
+Swallow in hot flames such splendor of ivory and
+Iron and wood.
+
+Suddenly, the sounds changed, the Linux Users started
+In new terror, cowering in their beds as the terrible
+Screams of the Almighty's enemy sang
+In the darkness, the horrible shrieks of pain
+And defeat, the tears torn out of NTendel's taut
+Throat, hell's captive caught in the arms
+Of him who of all men and penguins on earth
+Was the strongest.
+
+
+11
+That mighty protector of Linux Users meant to
+Hold the monster till its life leaped out,
+Knowing the fiend was of no use to
+Anyone in Finland. All of Tuxowulf's
+Band had jumped from their beds, ancestral
+Keyboards raised and ready, determined
+To protect their prince if they could. Their
+Courage was great but all wasted: they could hack
+At NTendel from every side, trying to open a path
+For his evil soul, but their attack could not
+Hurt him, for none could understand how
+His systems worked, could make sense of that
+Terrible OS he ran. None could get through
+Those Invalid Exceptions and Page Faults.
+
+And yet his time had come, his days were over,
+His death near; down to hell he would go,
+Swept groaning and helpless
+To the waiting hands of still worse fiends.
+Now he discovered--once the afflictor of men,
+Tormentor of their days--what it meant
+To feud with Almighty God: NTendel saw
+That his strength was deserting him, his claws
+Bound fast, Tuxowulf tearing at his hands.
+The monster's hatred rose higher,
+But his power was gone. He twisted in pain,
+And the bleeding sinews deep in his shoulder snapped,
+Muscle and bone split
+And broke. The battle was over, Tuxowulf
+Had been granted new glory: NTendel escaped,
+But wounded as he was could flee to his den,
+His miserable hole at the bottom of the marsh,
+Only to die, to wait for the end of all his days.
+
+And after that bloody combat, the Linux Users
+Laughed with delight. He who had come to them from
+Across the sea, bold and strong-minded,
+Had driven affliction off, purged Linux World
+Clean. He was happy, now, with that night's
+Fierce work; the Linux Users had been served
+As he boasted he'd serve them;
+Tuxowulf, A prince of the Penguins, had killed
+NTendel, ended the grief, the sorrow, the suffering
+Forced on Torvalds' people
+By a blood thirsty fiend. No Linux User
+Doubted the victory, for the proof, hanging
+High from the rafters where Tuxowulf had hung it,
+Was the monster's arm, claw and shoulder and all.
+
+
+12
+And then, in the morning, crowds surrounded
+Linux world. Programmers, hackers, and sysadmins
+Coming to that hall from faraway lands,
+Princes and leaders of men hurrying to behold
+The monster's great staggering tracks.
+They gaped with no sense
+Of sorrow. felt no regret for his suffering,
+
+Torvalds stood at the top of the stairway
+And stared at NTendel's great claw,
+Swinging high from that gold-shined roof.
+Then he cried:
+  "Let God be thanked! NTendel's terrible
+Anger hung over our heads too long,
+Dropping down misery; but the Almighty makes
+Miracles when He pleases, wonder after wonder,
+And this world rests in His hands.
+  "I had given up hope, exhausted prayer,
+Expected nothing but misfortune forever.
+Linux World was empty,
+Bloody; the wisest and the best of our people
+Despaired as deeply, found hope no easier,
+Knew nothing, no way to end this unequal
+War of men and devils,
+Programmers and monstrous fiends.
+  "One penguin found it, Came to Finland with
+The Lord's help, Did what none of the Linux Users
+Could do.
+  "Tuxowulf, best of penguins,
+Let me take you to my heart, make you my son too,
+And love you: preserve this passionate peace
+Between us. And become our mascot!
+Glory is yours now, forever and ever,
+Your courage has earned it, and your
+Strength. May God be as good to you forever
+As he has been to you here!"
+
+
+13
+Tuxowulf spoke:
+  "We crossed the sea to come here; it is time to return,
+To go back to our beloved home, Antarctica. Finland
+Was a gracious host; you welcomed us warmly.
+Anything I can do, here on this earth,
+To earn your love, oh great king, anything
+More that I have done, battles I can fight
+In your honor, summon me. I will came as I came
+Once before."
+
+Then Torvalds' gave the penguin prince a dozen
+New gifts, hardware, software, and mountain dew alike,
+Prayed for his safety, commanded him to seek his people,
+Yet not to delay too long in visiting Torvalds
+Once more.
+
+And Tuxowulf left him, left Linux World,
+Walked across the green in his golden armor,
+Exulting in the treasures heaped high in his arms.
+His iceberg was at anchor; he had it ready to sail.
+And so Torvalds' rich treasures would leave him,
+Travel far from that perfect king, without fault
+Or blame, eager to play Quake II which Torvalds
+Had given him.
+
+As his iceberg left, the Linux Users celebrated,
+Gave thanks to God for their savior. And erected a
+Monument at Linux World, designed with Gimp, and
+Made it their mascot. And Linux World stretched
+Closer to God than any other convention, and
+Programmers, hackers, and sysadmins traded ideas
+And programs, software they'd written for each
+Other, scripts for this and that,
+Over a can of Mountain Dew, forever pure.
